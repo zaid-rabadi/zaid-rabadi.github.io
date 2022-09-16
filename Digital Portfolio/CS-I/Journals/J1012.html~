@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <title>CS-I Journal J1012</title>
+  </head>
+  <style>
+    body{
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	background: linear-gradient(-45deg, #ee7752, #E73C7E, #23A6D5, #23d5AB);
+	background-size: 400% 400%;
+	position: relative;
+	animation: change 10s ease-in-out infinite;
+	margin:0;
+	font-family: sans-serif;
+    }
+
+    @keyframes change{
+
+	0% {
+	    background-position: 0 50%;
+	}
+	50% {
+	    background-position: 100% 50%;
+	}
+	100% {
+	    background-position: 0 50%;
+	}
+    }
+
+    h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    }
+
+        </style>
+  <body>
+    <h1>CS-I Journal J1012</h1>
+    <p>Name: Zaid Rabadi</p>
+    <p>Date: 12-Sep-2022</p>
+    <p> I assisted: No one<p>
+    <p> I received assistance from: No one<p>
+      <h1>Journal Entries<h2>
+	  1.1:Describe the general process for executing addition, regardless of base.
+	  In general, when adding two numbers, you stack them on top of each other and add them individually, while borrowing from a neighbor number if need be<br>
+	  <br>
+	  1.2: What special factors need to be considered when executing addition with octal numbers?
+	  The number can only go up to 7<br>
+	  <br>
+	  1.3:What special factors need to be considered when executing addition with hexadecimal numbers?
+	  The number can only go up to 16 and 10,11,12,13,14, and 15 are all letters.<br>
+	  <br>
+	  1.4:What special factors need to be considered when executing addition with binary numbers?
+	  The number cant go past 1<br>
+	  <br>
+	  <br>
+	  What did I learn? What is the "big idea"?
+	  I learned how to add with Binary, Octal, and Hexadecimal numbers<br>
+	  <br>
+	  What challenges did I encounter?
+	  The first lesson we did on Octal numbers was confusing and I didn't really understand it<br>
+	  <br>
+	  How could this experience be improved?
+	  It could be improved if there was a review or quiz on it to better understand the lesson<br>
+	  <br>
+	  Free Reflection: How has what I've learned affected my thinking?
+	  Initially, I felt that this lesson was going to be hard but then after some practice with my classmates and teachers I understood it<br>
+	  <br>
+  </body>
+</html>
+

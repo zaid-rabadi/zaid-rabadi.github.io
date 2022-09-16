@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+  <html>
+    <head>
+      <style>
+	body{
+	    width: 100%;
+	    height: 100vh;
+	    color: #fff;
+	    background: linear-gradient(-45deg, #ee7752, #E73C7E, #23A6D5, #23d5AB);
+	    background-size: 400% 400%;
+	    position: relative;
+	    animation: change 10s ease-in-out infinite;
+	    margin:0;
+	    font-family: sans-serif;
+	}
+
+	@keyframes change{
+
+	    0% {
+		background-position: 0 50%;
+	    }
+	    50% {
+		background-position: 100% 50%;
+	    }
+	    100% {
+		background-position: 0 50%;
+	    }
+	}
+
+	h1{
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	}
+
+	    </style>
+      <body>
+	<h1> Name: Zaid Rabadi زيد الربضي</h1>
+	Journal: J1002
+	Date: 23-Aug-2022
+	<br>
+	I recieved Assistance from: Kayana and Tanay<br>
+	I assisted: Kayana<br>
+	1.1: Name at least two other services that you personally use which are implemented using a Client/Server Model		    
+	A minecraft server or an internet provider<br>
+	2.1: It appears that both Jack Williams and John Williams can have a directory of the same name. Do you think the ability to have two different users create a directory of the same name is important? Why?
+	It is important to allow both people to use the same directory, it allows for more option names for directrories<br>
+        3.1: Why do you think the home directory has a special symbol to represent it?
+	I believe it has a special symbol so it is easily identifiable<br>
+	4.1: Did the prompt change? If so, how? Why is this useful?
+	It did change, this can be useful if you want to change directories<br>
+	5.1 and 5.2: What happens each time you press the ↑? What happens each time you press the ↓?
+	It cycles through previous commands you have entered into the system<br>
+	6.1: Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?
+	It did not print, it will printed into the out.txt<br>
+	7.1 and 7.2: How does the ls command differ from the tree command? How do you choose to use one over the other?
+	The tree command opens all the directories while the ls only opens the most recent one.You can use either one of these commands depending on what directory you want to open<br>
+	8.1 and 8.2: What do you think the argument to sleep specifies? Are you able to prove your hypothesis? How?
+	It specifies how the command is able to return the command after a few seconds. The command sleep returns after 5 seconds proving my hypothesis<br>
+	9.1:  How is the behavior different from what you expected?
+	The command sleeps for 60 seconds<br>
+        9.2: What do you think it means to run a job in the background?
+	It allows you to run other commands while the previous one is still running<br>
+        9.3: What do you think the number displayed in brackets specifies?
+	It shows the amount of times you have run the command<br>
+	10.1: What do you observe as you execute the jobs command?
+	It shows the jobs that have been run<br>
+	10.2: How do you explain your observations?
+	You can see all the previous commands that are running/that were ran<br>
+
+	What did I learn? What is the "big idea"?
+	I learned a lot about HTML through this journey, I know understand the core elements of HTML<br>
+	What challenges did I encounter?
+	The challenges I encountered was getting my Journal to show up on the website<br>
+	How could this experience be improved?
+	The experience could be improved, if there was a lesson in Coder Merlin explaining this in depth<br>
+	Free Reflection: How has what I've learned affected my thinking?
+	I hope to keep growing as a coder and learning more and more about the interface of Swift and HTML<br>
+	
+	
+      </body>
+  </html>

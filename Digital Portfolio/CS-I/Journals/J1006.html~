@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1006</title>
+  </head>
+  <style>
+    body{
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	background: linear-gradient(-45deg, #ee7752, #E73C7E, #23A6D5, #23d5AB);
+	background-size: 400% 400%;
+	position: relative;
+	animation: change 10s ease-in-out infinite;
+	margin:0;
+	font-family: sans-serif;
+    }
+
+    @keyframes change{
+
+	0% {
+	    background-position: 0 50%;
+	}
+	50% {
+	    background-position: 100% 50%;
+	}
+	100% {
+	    background-position: 0 50%;
+	}
+    }
+
+    h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    }
+
+        </style>
+  <body>
+    <h1>CS-I Journal J1006</h1>
+    <p>Name: Zaid Rabadi</p>
+    <p>Date: 1-Sep-2022</p>
+
+    <p>I received assistance from: Srujan</p>
+    <p>I assisted: Kayana</p>
+
+    <h2>Journal Entries</h2>
+    1.1: What is Git communicating to you?
+    It shows that I own the account and when I opened it<br>
+    <br>
+    1.2: What do you see that is common between this git log command and the previous git commit? It shows you the files that you opened<br>
+    <br>
+    1.3: Why do you think this is? It helps differentiate between both of them<br>
+    <br>
+    2.1: What do you notice about file1.txt and file2.txt? How are they displayed in git status? They show you which one has been modified and which one is new <br>
+    <br>
+    2.2: Are they both displayed in the same section? If not, why not? Yes, so you can easily see it <br>
+    <br>
+    3.1: What do you notice about file1.txt and file2.txt? How are they displayed in git status? File one comes first then file two<br>
+    <br>
+    3.2:Compare and contrast the manner in which the two files are displayed.
+    They are both green and are used for different things<br>
+    <br>
+    4.1: How many files are listed as having been changed?
+    One file has been listed as being changed<br>
+    <br>
+    4.2: What are the specific differences listed for each file? In what color is the difference displayed? The differences show in the colors white and blue<br>
+    <br>
+    5.1: What does Git tell you has changed? Why?
+    Git tells me what files have been changed<br>
+    <br>
+    What did I learn? What is the "big idea"?
+    I learned a lot about the git commands<br>
+    <br>
+    What challenges did I encounter?
+    A challenge I encountered was geting my J1006 Journal to show up on my portfolio<br>
+    <br>
+    How could this experience be improved?
+    This experience could be improved with updated lesson on J1006<br>
+    <br>
+    Free Reflection: How has what I've learned affected my thinking?
+    I now realize that when you work as a team you get the job done much quicker<br>
+    
+  </body>
+  </html>

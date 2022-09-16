@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    |   </head>
+  <style>
+    8 |     body{
+	9 |         width: 100%;
+	10 |         height: 100vh;
+	11 |         color: #fff;
+	12 |         background: linear-gradient(-45deg, #ee7752, #E73C7E, #23A6D5, #23d5AB);
+	13 |         background-size: 400% 400%;
+	14 |         position: relative;
+	15 |         animation: change 10s ease-in-out infinite;
+	16 |         margin:0;
+	17 |         font-family: sans-serif;
+	18      }
+    19 |
+    20 |     @keyframes change{
+	21 |
+	22 |         0% {
+	    23 |             background-position: 0 50%;
+	    24 |         }
+	25 |         50% {
+	    26 |             background-position: 100% 50%;
+	    27 |         }
+	28 |         100% {
+	    29 |             background-position: 0 50%;
+	    30 |         }
+	31 |     }
+    32 |
+    33 |     h1{
+	34 |         display: flex;
+	35 |         justify-content: center;
+	36 |         align-items: center;
+	37 |     }
+    38 |
+      39 |           </style>
+           <body>  
+    <meta charset="utf-8">
+    <title>Advanced Computer Science I</title>
+  </head>
+
+  <body>
+    <h1>Advanced Computer Science I</h1>
+
+    <h2>Journals</h2>
+    <ul>
+      <li><a href="CS-I/Journals/J1002.html">J1002: Shell</a></li>
+      <li><a href="CS-I/Journals/J1006.html">J1006: Shell</a></li>
+    </ul>
+  </body>
+  </html>
